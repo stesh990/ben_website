@@ -6,8 +6,7 @@ A modern, attractive, and fully responsive website for Ben's Gym with a focus on
 
 1. **index.html** - Main HTML file with complete website structure
 2. **styles.css** - Modern CSS styling with attractive colors and animations
-3. **script.js** - Interactive JavaScript functionality
-4. **README.md** - This file
+3. **README.md** - This file
 
 ## 🎨 Design Features
 
